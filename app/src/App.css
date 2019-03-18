@@ -1,0 +1,48 @@
+/* .App {
+  text-align: center;
+  background-color:aqua
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  color:black;
+  background-color:orangered
+      
+     
+}
+.App-header2 {
+    color:purple;
+    
+}
+.App-AddItems {
+    color: black;
+    background-color:palegoldenrod;
+    font-weight:bold
+}
+.App-EditItems {
+    color: black;
+    background-color: yellow;
+    font-weight: bold;
+}
+.App-DeleteItems {
+    color: black;
+    background-color: fuchsia;
+    font-weight: bold;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+} */
